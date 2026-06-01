@@ -5,11 +5,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Things+That+Matter;Exploring+AI%2FML+and+Modern+Full-Stack+Tools;Execution+%E2%80%A2+Innovation+%E2%80%A2+Impact" />
 
 
+
 </div>
 
 <br/>
+<img align="right" width="320" src="./avatar.png"/>
 
-<img align="right" width="320" src="https://api.dicebear.com/8.x/adventurer/svg?seed=Sudeepa&backgroundColor=1a1a2e"/>
 
 ### About Me
 
