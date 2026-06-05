@@ -154,8 +154,7 @@ Real-time live dashboard for campus — food ordering, events, lost & found, and
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sudeepa77&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117&border_radius=10"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeepa77&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepa77&theme=github-compact&bg_color=0d1117&color=888888&line=A78BFA&point=A78BFA&area_color=A78BFA&area=true&hide_border=true"/>
