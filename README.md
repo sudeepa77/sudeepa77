@@ -154,7 +154,8 @@ Real-time live dashboard for campus — food ordering, events, lost & found, and
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeepa77&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeepa77&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudeepa77&theme=github-compact&bg_color=0d1117&color=888888&line=A78BFA&point=A78BFA&area_color=A78BFA&area=true&hide_border=true"/>
